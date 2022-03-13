@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khomoo
+- 👋 Hi, I’m Khomotso Mariri
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java and I'm busy with web development projects
 - 💞️ I’m looking to collaborate on various programming projects and languages
